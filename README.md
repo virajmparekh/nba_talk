@@ -1,2 +1,2 @@
 # nba_talk
-short talk I'm going to give at UC
+short talk I gave at UC
